@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nativa-whale-domes-glamping-camping.vercel.app/sitemap.xml
